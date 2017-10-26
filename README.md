@@ -1,0 +1,2 @@
+# config-repository
+configServer
